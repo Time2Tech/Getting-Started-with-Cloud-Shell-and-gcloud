@@ -1,6 +1,5 @@
 # Getting Started with Cloud Shell and gcloud || [GSP002](https://www.cloudskillsboost.google/focuses/563?parent=catalog) ||
 
-## Solution [here](https://youtu.be/ay9korKIWzk)
 
 ### Run the following Commands in CloudShell
 ```
@@ -19,7 +18,3 @@ sudo chmod +x gsp002.sh
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
 
 #### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
